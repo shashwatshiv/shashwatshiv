@@ -13,6 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="<p align="left">
+<a href="https://www.linkedin.com/in/shashwatshiv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwatshiv" height="30" width="40" /></a>
+</p>
+<p align="left">
 <a href="https://instagram.com/shashwatcreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashwatcreates" height="30" width="40" /></a>
 </p>
 
