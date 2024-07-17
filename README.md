@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashwat Shivhare</h1>
-<h3 align="center">Web developer and open-source enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shashwat</h1>
+<h3 align="center">dev from Indore,India building web apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatshiv&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatshiv" /> </p>
 
