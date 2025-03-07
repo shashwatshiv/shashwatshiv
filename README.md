@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **software development and engineering**
 
-- 👨‍💻 All of my projects are available at [shashwat.space](shashwat.space)
+- 👨‍💻 All of my projects are available at [shashwat.space](https://shashwat.space)
 
 - 📝 I regularly write articles on [shashwat.space/blogs](shashwat.space/blogs)
 
