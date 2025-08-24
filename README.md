@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **software development and engineering**
 
-- 👨‍💻 All of my projects are available at [shashwat.space](http://shashwat.space/)
+- 👨‍💻 All of my projects are available at [shashwat.space](http://shashwatshiv.tech/)
 
-- 📝 I regularly write articles on [shashwat.space/blogs](http://shashwat.space/blogs)
+- 📝 I regularly write articles on [shashwat.space/blogs](http://shashwatshiv.tech/blogs)
 
 - 💬 Ask me about **tech trends,F1,science,cinema & philosophy**
 
